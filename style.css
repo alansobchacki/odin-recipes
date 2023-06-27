@@ -1,0 +1,43 @@
+h1 {
+    background-color: black;
+    color: white;
+    font-size: 52px;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2, h3, h4 {
+    color: rgb(111, 70, 145);
+    font-size: 36px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+li, ol {
+    color: black;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
+.mainlist {
+    background-color: white;
+    color: black;
+    font-size: 36px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+p {
+    font-size: 18px;
+    text-align: justify;
+    font-family: sans-serif;
+}
+
+.breaker {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 14px;
+}
