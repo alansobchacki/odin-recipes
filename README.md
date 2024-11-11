@@ -1,4 +1,4 @@
-Project #1: Recipes
+Recipes Page
 =============
 
 A basic HTML/CSS static page.
